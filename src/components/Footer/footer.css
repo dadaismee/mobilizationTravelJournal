@@ -1,0 +1,11 @@
+.footer {
+  margin: -1rem 50px 1.5rem 40px;
+  text-align: right;
+  font-size: 8px;
+}
+
+.footer a {
+  text-decoration: none;
+  color: #F55A5A;
+  font-weight: 700;
+}
