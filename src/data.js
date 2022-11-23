@@ -10,7 +10,7 @@ export default [
     googleMaps: "https://goo.gl/maps/7khjjmhGCr8SiFGk9",
     location: "Minsk",
     dates: "22 Sen, 2022 - 23 Sen, 2022",
-    description: "After the announbcement of the mobilization in Russia on September 21, I rapidly bought a 10-hour bus ticket from Moscow to Minsk, Belarus. When I arrived at a rented flat, the owner said that I am in more danger there than in Russia, so my wife bought me the ticket to Oss, Kyrgrsztan."
+    description: "After the announcement of the mobilization in Russia on September 21, I rapidly bought a 10-hour bus ticket from Moscow to Minsk, Belarus. When I arrived at a rented flat, the owner said that it's more dangerous there than in Russia, so I bought the ticket to Oss, Kyrgyzstan."
   },
   {
     id: 2,
@@ -28,6 +28,6 @@ export default [
     googleMaps: "https://goo.gl/maps/eF234efvfgTJJ6zv9",
     location: "Tbilisi",
     dates: "6 Nov, 2022 - NOW",
-    description: "Now I am with my familiy in Tbilisi, Georgia. We'll stay here for six month or more."
+    description: "Now I am in Tbilisi, Georgia and plan to stay here for a while."
   }
 ]
