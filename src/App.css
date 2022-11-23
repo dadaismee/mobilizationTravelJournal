@@ -1,0 +1,10 @@
+#root {
+  width: 550px;
+  margin: 5vh auto;
+  border: 1px solid lightgray;
+  border-radius: 5px;
+}
+
+.App__cards-container {
+  margin: 50px 40px 28px 40px;
+}

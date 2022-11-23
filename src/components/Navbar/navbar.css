@@ -1,0 +1,25 @@
+nav {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #F55A5A; 
+  max-height: 55px;
+  padding: 16px;
+  border-radius: 5px 5px 0 0;
+  border: none;
+}
+
+nav > img {
+  height: 24px;
+  text-align: center;
+  vertical-align: bottom;
+}
+
+nav > h3 {
+  color: white;
+  margin-left: 7px;
+  font-weight: 600;
+  font-size: 15px;
+  font-weight: 500;
+  letter-spacing: -0.075em;
+}
